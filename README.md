@@ -1,4 +1,4 @@
-# Cluster Creator Kit ベースのサンプルプロジェクト（Logic de タイマー）
+# Cluster Creator Kit ベースのサンプルプロジェクト（Logic de タイマーもどき）
 
 [cluster](https://cluster.mu/) にゲームワールドを制作する際のテンプレートとなる Unity プロジェクトです。
 
